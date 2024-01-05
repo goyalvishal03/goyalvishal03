@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Vishal Goyal</h1>
 <h3 align="center">A passionate Full Stack developer and Machine Learning Enthusiast from India.</h3>
 
